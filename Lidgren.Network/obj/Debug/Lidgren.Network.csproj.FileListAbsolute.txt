@@ -1,0 +1,7 @@
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\bin\Debug\Lidgren.Network.XML
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\bin\Debug\Lidgren.Network.dll
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\bin\Debug\Lidgren.Network.pdb
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.csprojAssemblyReference.cache
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.csproj.CoreCompileInputs.cache
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+C:\Users\leozz\Documents\Nitrox\lidgren-network-gen3\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
